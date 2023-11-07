@@ -1,0 +1,9 @@
+# IDE configuration
+.vscode
+.idea
+DS_Store
+
+logs/*.log
+config/fcm_config.json
+.dockerignore
+.env
